@@ -4,7 +4,7 @@ My name is Vladislav Sokolov. I am a novice IT specialist, a young scientist and
 
 ### :train: Current work
 
-I am currently studying Django to expand my Python skills. In the format of studying, I create my [resume website](https://github.com/VladislavDev/resume). While it is not very rich, but there is a planned section of projects, DRF, templating the creation of resume files. If you are an experienced Django developer and you have something to offer my project, I will be happy to consider your suggestions!
+I am currently studying Django to expand my Python skills. In the format of studying, I create my [personal website](https://github.com/VladislavDev/va_sokolov). While it is not very rich, but there is a planned section of projects, DRF, templating the creation of resume files. If you are an experienced Django developer and you have something to offer my project, I will be happy to consider your suggestions!
 
 ### :phone: Current job
 
